@@ -1,4 +1,7 @@
+# virtual environments
 llm-venv/
 venv/
+
+# others
 __pycache__/
 .DS_Store
